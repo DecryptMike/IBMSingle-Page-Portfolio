@@ -1,5 +1,17 @@
-# single-page-portfolio
-It Is A Single Page Website Made Using HTML, CSS &amp; JavaScript In An Introduction To Web Development Course From CourserA hosted by IBM. Heres My Portfolio!
+<p align="center">
+  <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
+</p>
+
+<h3 align="center">
+    🛡️ IBM Single Page Portfolio Assignment
+</h3>
+
+<h5 align="center">
+     Here's IBM CourserA Website Development Project. This Single-Page Portfolio Showcases<br>HTML, CSS, And JavaScript Skills Acquired During The Course. 
+</h5>
+
+---
+
 ![profile_name](https://github.com/user-attachments/assets/22550485-b63e-4a71-bab4-801ef4e9dee2)
 ![aboutme](https://github.com/user-attachments/assets/d5d894e2-ebed-4a4e-810a-d4979c8f38fb)
 ![skills](https://github.com/user-attachments/assets/64fc8ed4-2f3a-41f3-9039-a9202d6d8ccf)
