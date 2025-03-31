@@ -7,7 +7,7 @@
 </h3>
 
 <h5 align="center">
-     Here's My IBM CourseA Website Development Project!. This Single-Page Portfolio Showcases<br>HTML, CSS, And JavaScript Skills That I Used During The Course. 
+     Here Is My Single Page Website Made Using HTML, CSS & JavaScript In An Introduction To Web Development Course From CourseA Hosted By IBM. Check Out My Simple Portfolio Creation! 
 </h5>
 
 ---
