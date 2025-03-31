@@ -7,7 +7,7 @@
 </h3>
 
 <h5 align="center">
-     Here's My IBM CourserA Website Development Project!. This Single-Page Portfolio Showcases<br>HTML, CSS, And JavaScript Skills That I Used During The Course. 
+     Here's My IBM CourseA Website Development Project!. This Single-Page Portfolio Showcases<br>HTML, CSS, And JavaScript Skills That I Used During The Course. 
 </h5>
 
 ---
