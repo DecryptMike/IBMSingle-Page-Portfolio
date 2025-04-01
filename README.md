@@ -10,6 +10,11 @@
      Here Is My Single Page Website Made Using HTML, CSS & JavaScript In An Introduction To Web Development From CourseA Hosted By IBM. <br>Check Out My Simple Portfolio Creation! 
 </h5>
 
+## 📄 License
+
+* This repository is licensed under the (**Default Copyright Law**) which prohibits the redistribution or reuse of its content. <br>
+* However, others are welcome to explore, gain insights, and utilize the materials solely for **personal** learning and reference purposes.
+
 ---
 
 ![profile_name](https://github.com/user-attachments/assets/22550485-b63e-4a71-bab4-801ef4e9dee2)
