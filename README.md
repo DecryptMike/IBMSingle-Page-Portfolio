@@ -2,9 +2,9 @@
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
 </p>
 
-<h3 align="center">
+<h2 align="center">
     🛡️ IBM Single Page Portfolio Assignment
-</h3>
+</h2>
 
 <h5 align="center">
      Here Is My Single Page Website Made Using HTML, CSS & JavaScript In An Introduction To Web Development From CourseA Hosted By IBM. <br>Check Out My Simple Portfolio Creation! 
