@@ -1,7 +1,10 @@
 ![HTML](https://img.shields.io/badge/Built%20With-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/Styled%20With-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Powered%20By-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![UI](https://img.shields.io/badge/UI-Single%20Page%20Portfolio-9333ea?style=flat-square)
+![IBM Certificate Web Development](https://img.shields.io/badge/IBM_Certificate-Web_Development-1f70c1?style=flat-square&logo=ibm&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Responsive%20Design-ef4444?style=flat-square)
+![Tools](https://img.shields.io/badge/Tools-GitHub%20Pages-10b981?style=flat-square&logo=github&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-Practical%20UI%20Design-f59e0b?style=flat-square)
 
 <p align="center">
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
@@ -36,5 +39,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20for-Frontend%20Practice-2C3E50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Made%20By-DecryptMike-limegreen?style=for-the-badge&logo=github"/>
- <img src="https://img.shields.io/badge/Inspired%20by-IBM%20Cybersecurity%20Course-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Inspired%20By-IBM%20Web%20Development-0b62ff?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
