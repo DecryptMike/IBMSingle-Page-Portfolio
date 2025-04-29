@@ -1,10 +1,10 @@
-![HTML](https://img.shields.io/badge/Built%20With-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/Styled%20With-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Powered%20By-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![IBM Certificate Web Development](https://img.shields.io/badge/IBM_Certificate-Web_Development-1f70c1?style=flat-square&logo=ibm&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Responsive%20Design-ef4444?style=flat-square)
-![Tools](https://img.shields.io/badge/Tools-GitHub%20Pages-10b981?style=flat-square&logo=github&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-Practical%20UI%20Design-f59e0b?style=flat-square)
+![Built With](https://img.shields.io/badge/Built%20With-HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=3f3f46)
+![Styled With](https://img.shields.io/badge/Styled%20With-CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=3f3f46)
+![Powered By](https://img.shields.io/badge/Powered%20By-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=3f3f46)
+![IBM Certificate](https://img.shields.io/badge/IBM%20Certificate-Web%20Development-1f2937?style=flat&labelColor=3f3f46&color=1d4ed8)
+![Focus](https://img.shields.io/badge/Focus-Responsive%20Design-ef4444?style=flat&labelColor=3f3f46)
+![Tools](https://img.shields.io/badge/Tools-GitHub%20Pages-10b981?style=flat&logo=github&logoColor=white&labelColor=3f3f46)
+![Portfolio](https://img.shields.io/badge/Portfolio-Practical%20UI%20Design-f59e0b?style=flat&labelColor=3f3f46)
 ![License](https://img.shields.io/badge/Copyright-©%202025-3f3f46?style=flat&labelColor=3f3f46&color=000000&logo=creativecommons&logoColor=white)
 
 <p align="center">
