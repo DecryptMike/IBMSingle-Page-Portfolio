@@ -5,7 +5,7 @@
 ![Focus](https://img.shields.io/badge/Focus-Responsive%20Design-ef4444?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-GitHub%20Pages-10b981?style=flat-square&logo=github&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Practical%20UI%20Design-f59e0b?style=flat-square)
-![Copyright](https://img.shields.io/badge/Copyright-©%202025-black?style=for-the-badge)
+![License](https://img.shields.io/badge/Copyright-©%202025-3f3f46?style=flat&labelColor=3f3f46&color=000000&logo=creativecommons&logoColor=white)
 
 <p align="center">
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
