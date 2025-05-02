@@ -16,7 +16,7 @@
 </h2>
 
 <h5 align="center">
-     Here Is My Single Page Website Made Using HTML, CSS & JavaScript In An Introduction To Web Development From CourseA Hosted By IBM. <br>Check Out My Simple Portfolio Creation! 
+     Here Is My Single Page Website Made Using HTML, CSS & JavaScript In An Introduction To Web Development From Coursera Hosted By IBM. <br>Check Out My Simple Portfolio Creation! 
 </h5>
 
 ## 📄 License
